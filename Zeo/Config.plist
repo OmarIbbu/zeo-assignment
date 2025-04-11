@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseURL</key>
+	<string>https://api.flickr.com</string>
+	<key>photoFeedsPath</key>
+	<string>/services/feeds/photos_public.gne</string>
+	<key>contentType</key>
+	<string>json</string>
+	<key>noJsonCallback</key>
+	<string>1</string>
+</dict>
+</plist>
